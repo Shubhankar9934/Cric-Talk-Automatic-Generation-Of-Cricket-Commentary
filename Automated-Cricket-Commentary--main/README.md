@@ -1,5 +1,9 @@
-# Automated-Cricket-Commentary-
-The objective of the project is to generate automatic commentary for cricket videos with the help of computer vision and neural networks.\
+# Cric-Talk : Automatic Generation Of Cricket Commentary
+Project Summary :
+The use of artificial intelligence in sports isn’t a major surprise, given the advancement in technology. However, automated commentary is still a fantasy and the way AI and ML are developing, it could soon be a reality. The development of such a system will change the way of sports broadcasting. Hence, in this work we have tried to generate a part of automatic ball-by-ball commentary of a cricket match.\
+
+Project Objective :
+The use of artificial intelligence in sports isn’t a major surprise, given the advancement in technology. The rise in computing power, availability of massive amounts of data, and an increased willingness of stakeholders to leverage such tools are the three principal reasons why the role of artificial intelligence in sports has gained a lot more importance recently. Today every cricket lover has the freedom to analyze every ball and every shot from all possible angles, analyze how the teams fared, new milestones created, how far the ball traveled into the stands, what pace the bowlers bowled and so on – all from the comfort of their home. The impact of technology seems to have completely changed cricket’s game plan. However, the automated commentary is still a fantasy and the way AI and ML are developing, it could soon be a reality. The development of such a system will change the way of sports broadcasting. Hence, in this work, we have tried to generate a part of the automatic ball-by-ball commentary of a cricket match.\
 This project contains two branches
 
 1. Modelling
